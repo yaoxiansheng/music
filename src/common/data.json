@@ -1,0 +1,363 @@
+{
+    "data": {
+        "topList": [
+            {
+                "id": 4,
+                "listenCount": 19400000,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001280ew0CkZQG.jpg",
+                "songList": [
+                    {
+                        "singername": "永彬Ryan.B",
+                        "songname": "放个大招给你看"
+                    },
+                    {
+                        "singername": "胡夏/Angelababy/王彦霖/白队合唱团",
+                        "songname": "凤凰花开的路口 (Live)"
+                    },
+                    {
+                        "singername": "毛不易",
+                        "songname": "烽火成书"
+                    }
+                ],
+                "topTitle": "巅峰榜·流行指数",
+                "type": 0
+            },
+            {
+                "id": 26,
+                "listenCount": 19500000,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004CLggC2ddN22.jpg",
+                "songList": [
+                    {
+                        "singername": "G.E.M. 邓紫棋",
+                        "songname": "来自天堂的魔鬼"
+                    },
+                    {
+                        "singername": "陈雪凝",
+                        "songname": "你的酒馆对我打了烊"
+                    },
+                    {
+                        "singername": "Taylor Swift",
+                        "songname": "You Need To Calm Down"
+                    }
+                ],
+                "topTitle": "巅峰榜·热歌",
+                "type": 0
+            },
+            {
+                "id": 27,
+                "listenCount": 2299060,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003fKVzG4T2xY8.jpg",
+                "songList": [
+                    {
+                        "singername": "薛之谦",
+                        "songname": "木偶人"
+                    },
+                    {
+                        "singername": "Taylor Swift",
+                        "songname": "You Need To Calm Down"
+                    },
+                    {
+                        "singername": "永彬Ryan.B",
+                        "songname": "放个大招给你看"
+                    }
+                ],
+                "topTitle": "巅峰榜·新歌",
+                "type": 0
+            },
+            {
+                "id": 58,
+                "listenCount": 6805760,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003EoF7d1tX4j6.jpg",
+                "songList": [
+                    {
+                        "singername": "GAI",
+                        "songname": "混江湖"
+                    },
+                    {
+                        "singername": "吴亦凡",
+                        "songname": "大碗宽面"
+                    },
+                    {
+                        "singername": "黄子韬",
+                        "songname": "AI"
+                    }
+                ],
+                "topTitle": "说唱榜",
+                "type": 0
+            },
+            {
+                "id": 57,
+                "listenCount": 2962540,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000005ROpu3kZGoN.jpg",
+                "songList": [
+                    {
+                        "singername": "The Chainsmokers/Bebe Rexha",
+                        "songname": "Call You Mine"
+                    },
+                    {
+                        "singername": "Marshmello/Kane Brown",
+                        "songname": "One Thing Right (feat. Kane Brown)"
+                    },
+                    {
+                        "singername": "TheFatRat/Slaydit/Anjulie",
+                        "songname": "Stronger"
+                    }
+                ],
+                "topTitle": "电音榜",
+                "type": 0
+            },
+            {
+                "id": 28,
+                "listenCount": 9100000,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000SS0On3HNRCQ.jpg",
+                "songList": [
+                    {
+                        "singername": "小咪",
+                        "songname": "我走后"
+                    },
+                    {
+                        "singername": "半吨兄弟",
+                        "songname": "爱情错觉"
+                    },
+                    {
+                        "singername": "童珺",
+                        "songname": "天下有情人 (国语版)"
+                    }
+                ],
+                "topTitle": "巅峰榜·网络歌曲",
+                "type": 0
+            },
+            {
+                "id": 5,
+                "listenCount": 6577100,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001EHEDE1DlyTL.jpg",
+                "songList": [
+                    {
+                        "singername": "薛之谦",
+                        "songname": "木偶人"
+                    },
+                    {
+                        "singername": "尤长靖",
+                        "songname": "一个人记得"
+                    },
+                    {
+                        "singername": "隔壁老樊",
+                        "songname": "晚婚"
+                    }
+                ],
+                "topTitle": "巅峰榜·内地",
+                "type": 0
+            },
+            {
+                "id": 3,
+                "listenCount": 9600000,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003mYPXO0YSvSu.jpg",
+                "songList": [
+                    {
+                        "singername": "Taylor Swift",
+                        "songname": "You Need To Calm Down"
+                    },
+                    {
+                        "singername": "Shawn Mendes/Camila Cabello",
+                        "songname": "Señorita"
+                    },
+                    {
+                        "singername": "The Chainsmokers/Bebe Rexha",
+                        "songname": "Call You Mine"
+                    }
+                ],
+                "topTitle": "巅峰榜·欧美",
+                "type": 0
+            },
+            {
+                "id": 59,
+                "listenCount": 1920000,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000024jwfb18pDgM.jpg",
+                "songList": [
+                    {
+                        "singername": "郑秀文",
+                        "songname": "我们都是这样长大的"
+                    },
+                    {
+                        "singername": "李治廷",
+                        "songname": "I Know You Know"
+                    },
+                    {
+                        "singername": "李克勤/杭盖乐队",
+                        "songname": "你是我的大明星"
+                    }
+                ],
+                "topTitle": "香港地区榜",
+                "type": 0
+            },
+            {
+                "id": 16,
+                "listenCount": 4345320,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003o1Opd2o5qN3.jpg",
+                "songList": [
+                    {
+                        "singername": "Red Velvet (레드벨벳)",
+                        "songname": "짐살라빔 (Zimzalabim)"
+                    },
+                    {
+                        "singername": "Red Velvet (레드벨벳)",
+                        "songname": "Sunny Side Up!"
+                    },
+                    {
+                        "singername": "전소미 (全昭弥)",
+                        "songname": "BIRTHDAY"
+                    }
+                ],
+                "topTitle": "巅峰榜·韩国",
+                "type": 0
+            },
+            {
+                "id": 60,
+                "listenCount": 19700000,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001Ds2RP0cYg6v.jpg",
+                "songList": [
+                    {
+                        "singername": "小星星Aurora",
+                        "songname": "坠落星空"
+                    },
+                    {
+                        "singername": "半吨兄弟",
+                        "songname": "爱情错觉"
+                    },
+                    {
+                        "singername": "小咪",
+                        "songname": "我走后"
+                    }
+                ],
+                "topTitle": "抖音排行榜",
+                "type": 0
+            },
+            {
+                "id": 29,
+                "listenCount": 1920000,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002tZhBd39yLIk.jpg",
+                "songList": [
+                    {
+                        "singername": "黄勇/任浩铭",
+                        "songname": "你看到的我"
+                    },
+                    {
+                        "singername": "鞠婧祎",
+                        "songname": "青城山下白素贞"
+                    },
+                    {
+                        "singername": "李俊毅",
+                        "songname": "两人份美好"
+                    }
+                ],
+                "topTitle": "巅峰榜·影视金曲",
+                "type": 0
+            },
+            {
+                "id": 17,
+                "listenCount": 1492959,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000C54ji1pwbuC.jpg",
+                "songList": [
+                    {
+                        "singername": "米津玄師 (よねづ けんし)",
+                        "songname": "海の幽霊 (海之幽灵)"
+                    },
+                    {
+                        "singername": "majiko (まじ娘)",
+                        "songname": "エミリーと15の約束 (和艾米莉的15个约定)"
+                    },
+                    {
+                        "singername": "RADWIMPS (ラッドウィンプス)",
+                        "songname": "前前前世"
+                    }
+                ],
+                "topTitle": "巅峰榜·日本",
+                "type": 0
+            },
+            {
+                "id": 201,
+                "listenCount": 322505,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001qBhAD3QNGqh.jpg",
+                "songList": [
+                    {
+                        "singername": "薛之谦",
+                        "songname": "木偶人"
+                    },
+                    {
+                        "singername": "陈奕迅",
+                        "songname": "陈奕迅《相信你的人》（电影《银河补习班》推广曲）MV"
+                    },
+                    {
+                        "singername": "林宥嘉/郁可唯",
+                        "songname": "追寻年少的光 (《流淌的美好时光》电视剧主题曲)"
+                    }
+                ],
+                "topTitle": "巅峰榜·MV",
+                "type": 0
+            },
+            {
+                "id": 52,
+                "listenCount": 518011,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000wEJfQ2qSGEy.jpg",
+                "songList": [
+                    {
+                        "singername": "一棵小葱/张晓涵",
+                        "songname": "全都是戏"
+                    },
+                    {
+                        "singername": "K邵庄",
+                        "songname": "长大前"
+                    },
+                    {
+                        "singername": "丁拾北",
+                        "songname": "指山林"
+                    }
+                ],
+                "topTitle": "巅峰榜·腾讯音乐人原创榜",
+                "type": 0
+            },
+            {
+                "id": 36,
+                "listenCount": 1940000,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004S92Sy3KqsXN.jpg",
+                "songList": [
+                    {
+                        "singername": "朴爱源",
+                        "songname": "来自天堂的魔鬼"
+                    },
+                    {
+                        "singername": "乐静",
+                        "songname": "你的酒馆对我打了烊"
+                    },
+                    {
+                        "singername": "LBI利比",
+                        "songname": "我的名字"
+                    }
+                ],
+                "topTitle": "巅峰榜·K歌金曲",
+                "type": 0
+            },
+            {
+                "id": 61,
+                "listenCount": 804230,
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R300x300M00000142DNH1BiU7g.jpg",
+                "songList": [
+                    {
+                        "singername": "范晓萱/徐熙媛/徐熙娣/柳翰雅",
+                        "songname": "姐妹们的旅行"
+                    },
+                    {
+                        "singername": "炎亚纶",
+                        "songname": "我要飞翔"
+                    },
+                    {
+                        "singername": "毕书尽",
+                        "songname": "最好的故事"
+                    }
+                ],
+                "topTitle": "台湾地区榜",
+                "type": 0
+            }
+        ]
+    }
+}
